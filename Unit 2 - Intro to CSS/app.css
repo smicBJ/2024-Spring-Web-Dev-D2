@@ -1,0 +1,19 @@
+h1, h3 {
+  color: aqua;
+  text-align: center;
+  font-size: 72px;
+  font-family: cursive;
+}
+
+h3 {
+  color: red;
+  font-size: 40px;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+body {
+  background-color: black;
+}
