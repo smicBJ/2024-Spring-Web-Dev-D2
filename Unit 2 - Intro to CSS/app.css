@@ -1,19 +1,30 @@
+body {
+  background-color: black;
+}
+
 h1, h3 {
-  color: aqua;
   text-align: center;
   font-size: 72px;
   font-family: cursive;
 }
 
 h3 {
-  color: red;
   font-size: 40px;
 }
 
-h3 {
-  color: aquamarine;
+/* #red-t {
+  color: red;
+} */
+
+.red-text {
+  color: purple;
 }
 
-body {
-  background-color: black;
+.green-text {
+  color: green;
 }
+
+/* h1, h3 {
+  color: blue;
+} */
+
